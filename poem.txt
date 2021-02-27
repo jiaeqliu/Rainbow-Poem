@@ -10,3 +10,5 @@ Green
 Yellow
 Red
 These are the colors of the rainbow and the pony.
+
+This is a footnote
